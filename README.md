@@ -42,33 +42,6 @@ Las responsabilidades están claramente separadas:
 - Los cambios en el estado del juego se reflejan automáticamente en la UI gracias a `LiveData` y `mutableStateOf`.
 - Esto asegura que la interfaz siempre esté sincronizada con los datos subyacentes.
 
----
-
-## **Criterios de Evaluación**
-
-### **1. Funcionalidad MVVM (5 puntos)**
-- [x] Separación clara de funciones entre modelo, vista y vista-modelo.
-- [x] Uso adecuado de un repositorio para almacenar datos.
-
-### **2. Uso de Corutinas (5 puntos)**
-- [x] Implementación de corutinas para la gestión de animaciones y estados.
-
-### **3. Patrón Observer (5 puntos)**
-- [x] Uso de `LiveData` y `mutableStateOf` para observar y reaccionar a cambios en el estado.
-
-### **4. Gestión del Tiempo (5 puntos)**
-- [x] Commits regulares y progresivos en el repositorio para reflejar el desarrollo continuo.
-
-### **5. Dificultad (5 puntos)**
-- [x] Uso de tecnologías modernas (Jetpack Compose, corutinas, patrón Observer).
-- [x] Complejidad en la estructura de estados y manejo de la lógica del juego.
-
-### **6. Documentación (5 puntos)**
-- [x] Código bien comentado.
-- [x] Readme detallado con explicación de la arquitectura y funcionalidades.
-
----
-
 ## **Instalación y Ejecución**
 
 1. Clonar este repositorio:
