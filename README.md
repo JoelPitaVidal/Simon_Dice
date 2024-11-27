@@ -1,13 +1,13 @@
 
 # Simon Dice - Proyecto Kotlin
 
-Este repositorio contiene una implementación del juego **Simon Dice** desarrollado en Kotlin utilizando Jetpack Compose y el patrón de arquitectura **MVVM** (Model-View-ViewModel). Además, incluye el uso de corutinas y el patrón de diseño **Observer** para manejar el estado de la aplicación de manera eficiente.
+Este proyecto consiste eb ek juego **Simon Dice** desarrollado en Kotlin utilizando Jetpack Compose y el patrón de arquitectura **MVVM** (Model-View-ViewModel). 
 
 ---
 
 ## **Estructura del Proyecto**
 
-El proyecto está diseñado para seguir los principios del patrón **MVVM**, asegurando una clara separación de responsabilidades. A continuación, se describen cada uno de los componentes clave.
+El proyecto está diseñado para seguir los principios del patrón **MVVM**, asegurando una clara separación de responsabilidades, vamos a separar todas las partes importantes.
 
 ### **1. Modelo (Model)**
 
