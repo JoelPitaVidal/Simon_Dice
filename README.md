@@ -61,7 +61,7 @@ Button(
 
 ### **3. Vista-Modelo (ViewModel)**
 
-El ViewModel actúa como el intermediario entre la vista y el modelo. Se encarga de manejar la lógica del juego, como la generación de la secuencia, la validación de la entrada del usuario, y los cambios de estado.
+El ViewModel es el intermediario entre la vista y el modelo.Maneja la lógica del juego, como la generación de la secuencia, la validación de la entrada del usuario, y los cambios de estado.
 
 #### Ejemplo de Código
 ```kotlin
